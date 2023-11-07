@@ -89,6 +89,7 @@ button{
     position: fixed;
     top: 30px;
     right: 30px;
+    font-size: 24px;
 }
 #img{
     margin-bottom: 20px;
